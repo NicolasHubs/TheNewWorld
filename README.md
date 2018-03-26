@@ -1,6 +1,7 @@
 # The New World
 
-Le jeu tourne autour de son protagoniste le petit Barthélémy (et de son bon vieil ami russe Boris ?), un aliment de petite taille. Il explore le monde qui l'entoure uniquement composé d'objets toujours plus grand à cause de sa petite taille.
+The game centres around its little protagonist Barthélémy (and his good old Russian friend Boris ?), a small food.
+He explores the world around him only composed of ever larger objects because of his small size.
 
 ## Getting Started
 
@@ -12,29 +13,32 @@ git clone https://github.com/NicolasHubs/TheNewWorld.git
 
 ### Prerequisites
 
-You only need to install **Unity** in order to run our project :
+You only need **Unity** in order to run our project :
 
 * [**Download Unity**](https://store.unity.com/)
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+A step by step series of examples that tell you have to get a development env running :
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+First step
 
 ```
-until finished
+blablabla
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Next step
+
+```
+blablabla 
+Finished !
+```
+
+Demo ?
 
 ## Some pictures of our project
+
+![Alt text](https://i.ytimg.com/vi/2ErqCaqouTg/maxresdefault.jpg "Its not our game")
 
 *Insert pictures here*
 
